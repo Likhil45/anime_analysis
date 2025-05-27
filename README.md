@@ -1,4 +1,4 @@
-# Anime Data Analysis with MySQL and Python
+# Anime Data Analysis with MySQL 
 
 This repository contains a data analysis project focused on exploring insights from a dataset of Japanese anime titles sourced from IMDb. The project involves data cleaning, transformation, and deriving key findings about anime popularity, genres, and release trends.
 
